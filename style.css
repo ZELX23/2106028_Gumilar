@@ -1,0 +1,30 @@
+form {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  width: 350px;
+  padding: 20px;
+  margin: auto;
+  margin-top: 100px;
+  border: 2px solid black;
+  font-size: 18px;
+  border-radius: 30px;
+  text-align: center;
+  background-color: darkcyan;
+}
+.form-input {
+  display: block;
+  background-color: darkseagreen;
+  border: solid;
+  padding: 15px 50px;
+  border-radius: 30px 50px ;
+  border-color: rgb(0, 0, 0);
+  margin: auto;
+}
+#gaya_confirm{
+  background-color: darkslategrey;
+  color: white;
+  padding: 10px 80px;
+  border: solid;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  border-color: black;
+}
